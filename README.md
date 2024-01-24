@@ -163,4 +163,4 @@ All three libraries successfully accessed g2.com. However, Botasaurus stood out 
 Based on our benchmarks, Botasaurus is the recommended choice for accessing websites with robust bot protection measures. Its performance in circumventing Cloudflare's defenses is particularly noteworthy.
 
 ## Further Exploration
-For those interested in conducting their own tests, the code and dependencies are available in this repository itself. We believe in transparency and encourage feedback and discussion. Share your thoughts and experiences on our dedicated discussion page [here](TODO:ADD), and contribute to the community's collective knowledge.
+For those interested in conducting their own tests, the code and dependencies are available in this repository itself. We believe in transparency and encourage feedback and discussion. Share your thoughts and experiences on our dedicated discussion page [here](https://github.com/omkarcloud/botasaurus/discussions/43), and contribute to the community's collective knowledge.
